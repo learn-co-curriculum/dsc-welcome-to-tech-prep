@@ -27,7 +27,7 @@ We’ve compiled these resources and specific guidance to help you improve your 
 
 > *Optional 8 Min Read*  
 <a href="https://dev.to/256hz/so-you-ve-finished-bootcamp-are-you-employable-1n9l" target="_blank">So, You've Finished Bootcamp. Are You Employable?</a>  
-Written by FIS Alumni, Abe Dolinger 
+_Written by FIS Alumni, Abe Dolinger_ 
 
 ## Summary
 Now that you have finished the core of the Data Science program, use the resources in this course to help to expand on what you have learned.
